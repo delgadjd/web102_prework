@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='sea_monster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://drive.google.com/file/d/1_WRZJAtlWpzpUVY8bV5vshn51F-QFzHh/view?usp=sharing)
 
 
 GIF created with ...  [Kap](https://getkap.co/) for macOS
